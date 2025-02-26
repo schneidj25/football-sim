@@ -4,17 +4,23 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Football Team Owner Simulation</title>
-    <script defer src="script.js"></script>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <h1>Football Team Owner Simulation</h1>
-    <div id="app">
-        <button onclick="startDraft()">Start Draft</button>
-        <button onclick="simulateGame()">Simulate Game</button>
-        <button onclick="viewFinances()">View Team Finances</button>
+    <nav>
+        <button onclick="loadDraft('3rd-hour')">3rd Hour Draft</button>
+        <button onclick="loadDraft('5th-hour')">5th Hour Draft</button>
+        <button onclick="loadStandings()">View Standings</button>
+        <button onclick="loadFinances()">View Finances</button>
+        <button onclick="runGameSimulation()">Simulate Games</button>
+        <button onclick="manageTeamPrices()">Manage Prices</button>
+    </nav>
+    
+    <div id="content">
+        <p>Select an option above to begin.</p>
     </div>
-    <div id="output"></div>
+    
+    <script src="script.js"></script>
 </body>
 </html>
-
