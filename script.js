@@ -6,11 +6,18 @@ let draftPool = []; // Store the full draft pool
 
 // Load the player data from JSON
 fetch("players.json")
-    .then(response => response.json())
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! Status: ${response.status}`);
+        }
+        return response.json();
+    })
     .then(data => {
-        draftPool = data;
+        draftPool = data; // Ensure `draftPool` is assigned as an array
+        console.log("Draft Pool Loaded:", draftPool); // Debugging log
     })
     .catch(error => console.error("Error loading player data:", error));
+
 
 function loadClass(classPeriod) {
     document.getElementById("content").innerHTML = `<h2>${classPeriod} Dashboard</h2>
