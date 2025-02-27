@@ -1,0 +1,2212 @@
+{
+    "players": [
+        {
+            "name": "Darnell Hayes",
+            "position": "QB",
+            "attributes": "Strong arm, mobile, risk-taker",
+            "age": 27,
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bryce Coleman",
+            "position": "QB",
+            "attributes": "Accurate, pocket passer, slow",
+            "age": 32,
+            "salary": "$45M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jalen Rivers",
+            "position": "QB",
+            "attributes": "Scrambler, inconsistent thrower",
+            "age": 24,
+            "salary": "$35M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Marcus Tate",
+            "position": "QB",
+            "attributes": "Game manager, smart, low risk",
+            "age": 30,
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ricky Delgado",
+            "position": "QB",
+            "attributes": "Cannon arm, bad decision-making",
+            "age": 26,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Travis Monroe",
+            "position": "QB",
+            "attributes": "Balanced, solid fundamentals",
+            "age": 29,
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Elijah Carter",
+            "position": "QB",
+            "attributes": "Athletic, struggles in pocket",
+            "age": 23,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Nathan Ellis",
+            "position": "QB",
+            "attributes": "Veteran presence, clutch",
+            "age": 35,
+            "salary": "$42M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Sean Holloway",
+            "position": "QB",
+            "attributes": "Deep ball specialist, streaky",
+            "age": 28,
+            "salary": "$37M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Kyle Anderson",
+            "position": "QB",
+            "attributes": "Efficient, lacks big play ability",
+            "age": 31,
+            "salary": "$33M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Justin Harper",
+            "position": "QB",
+            "attributes": "Big playmaker, high risk",
+            "age": 25,
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Brandon Miller",
+            "position": "QB",
+            "attributes": "Scrambler, raw talent",
+            "age": 22,
+            "salary": "$29M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derek Owens",
+            "position": "QB",
+            "attributes": "Short passing game expert",
+            "age": 33,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Bennett",
+            "position": "QB",
+            "attributes": "Gunslinger, aggressive style",
+            "age": 26,
+            "salary": "$50M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Henry Lawson",
+            "position": "QB",
+            "attributes": "Reads defenses well, lacks power",
+            "age": 30,
+            "salary": "$32M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Adrian Thomas",
+            "position": "QB",
+            "attributes": "Efficient, lacks mobility",
+            "age": 34,
+            "salary": "$31M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Malik Johnson",
+            "position": "QB",
+            "attributes": "Strong arm, but turnover-prone",
+            "age": 27,
+            "salary": "$35M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Chris Vaughn",
+            "position": "QB",
+            "attributes": "Dual-threat, injury-prone",
+            "age": 24,
+            "salary": "$41M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jared Whitaker",
+            "position": "QB",
+            "attributes": "Pocket passer, slow release",
+            "age": 31,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Oscar Martinez",
+            "position": "QB",
+            "attributes": "Veteran leader, clutch",
+            "age": 36,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Devon Chambers",
+            "position": "QB",
+            "attributes": "Quick decision maker, undersized",
+            "age": 28,
+            "salary": "$47M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Eric Walters",
+            "position": "QB",
+            "attributes": "High-energy, emotional leader",
+            "age": 29,
+            "salary": "$39M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Leonard Steele",
+            "position": "QB",
+            "attributes": "Good all-around, no weaknesses",
+            "age": 30,
+            "salary": "$49M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Frank Simmons",
+            "position": "QB",
+            "attributes": "Low risk, game manager",
+            "age": 33,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jamal Foster",
+            "position": "RB",
+            "attributes": "Fast, elusive, injury-prone",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyrone Brooks",
+            "position": "RB",
+            "attributes": "Power back, slow but strong",
+            "age": 28,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Devon Carter",
+            "position": "RB",
+            "attributes": "Well-rounded, decent speed",
+            "age": 26,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Marcus Vaughn",
+            "position": "RB",
+            "attributes": "Speedster, home-run threat",
+            "age": 24,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Elijah Tate",
+            "position": "RB",
+            "attributes": "Veteran, great vision",
+            "age": 29,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ricky Dunbar",
+            "position": "RB",
+            "attributes": "Explosive cuts, fumble-prone",
+            "age": 23,
+            "salary": "$16M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Boone",
+            "position": "RB",
+            "attributes": "Bulldozer, great in short yardage",
+            "age": 27,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Brian Holloway",
+            "position": "RB",
+            "attributes": "Agile, good hands out of backfield",
+            "age": 25,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Cedric Malone",
+            "position": "RB",
+            "attributes": "Tough runner, lacks breakaway speed",
+            "age": 26,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Andre Gibson",
+            "position": "RB",
+            "attributes": "Rookie, unknown ceiling",
+            "age": 22,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Malik Bennett",
+            "position": "RB",
+            "attributes": "Shifty, weak in pass protection",
+            "age": 24,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Shawn Reddick",
+            "position": "RB",
+            "attributes": "North-south runner, consistent",
+            "age": 27,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Damien Wells",
+            "position": "RB",
+            "attributes": "Quick, but lacks power",
+            "age": 25,
+            "salary": "$16M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Julian Masters",
+            "position": "RB",
+            "attributes": "Power-speed combo, unproven",
+            "age": 23,
+            "salary": "$19M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Terrance Cole",
+            "position": "RB",
+            "attributes": "Aging vet, reliable",
+            "age": 30,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Hodge",
+            "position": "RB",
+            "attributes": "Receiving back, great routes",
+            "age": 26,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Ross",
+            "position": "RB",
+            "attributes": "One-cut runner, lacks agility",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Anthony Yates",
+            "position": "RB",
+            "attributes": "Elusive, poor in goal-line situations",
+            "age": 23,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carl Dunston",
+            "position": "RB",
+            "attributes": "Trucking ability, but slow",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Patrick Lacey",
+            "position": "RB",
+            "attributes": "Good pass blocker, average speed",
+            "age": 26,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Lamar Dorsey",
+            "position": "RB",
+            "attributes": "High upside, unpolished",
+            "age": 24,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jason Caldwell",
+            "position": "RB",
+            "attributes": "Injury history, still productive",
+            "age": 29,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derrick Slade",
+            "position": "RB",
+            "attributes": "Hard-nosed runner, lacks finesse",
+            "age": 27,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Victor Randall",
+            "position": "RB",
+            "attributes": "Young, raw talent",
+            "age": 22,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Malik Carter",
+            "position": "WR",
+            "attributes": "Possession WR, great hands, slow",
+            "age": 27,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Antonio Reed",
+            "position": "WR",
+            "attributes": "Speedster, deep threat, bad hands",
+            "age": 24,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Shawn McAllister",
+            "position": "WR",
+            "attributes": "Route technician, reliable",
+            "age": 28,
+            "salary": "$35M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jordan Parks",
+            "position": "WR",
+            "attributes": "Tall red-zone target, slow release",
+            "age": 26,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Darius Holloway",
+            "position": "WR",
+            "attributes": "Deep threat, struggles with press",
+            "age": 25,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bryce Sanderson",
+            "position": "WR",
+            "attributes": "All-around, no elite trait",
+            "age": 27,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Brooks",
+            "position": "WR",
+            "attributes": "Explosive YAC receiver, inconsistent",
+            "age": 23,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Terrence Vaughn",
+            "position": "WR",
+            "attributes": "Shifty slot WR, weak against physical CBs",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Calvin Douglas",
+            "position": "WR",
+            "attributes": "Elite hands, lacks speed",
+            "age": 29,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Andre Wallace",
+            "position": "WR",
+            "attributes": "Young, unpolished deep threat",
+            "age": 22,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Maurice Griffin",
+            "position": "WR",
+            "attributes": "Strong, hard to tackle after catch",
+            "age": 26,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Lambert",
+            "position": "WR",
+            "attributes": "Fast, crisp routes, small catch radius",
+            "age": 24,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Brandon Collier",
+            "position": "WR",
+            "attributes": "Big-play ability, drops issue",
+            "age": 25,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derrick Owens",
+            "position": "WR",
+            "attributes": "Physical, but struggles vs elite CBs",
+            "age": 27,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyson Caldwell",
+            "position": "WR",
+            "attributes": "Slot WR, great in short routes",
+            "age": 28,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jalen Simmons",
+            "position": "WR",
+            "attributes": "Red-zone monster, lacks separation",
+            "age": 30,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Aaron Fields",
+            "position": "WR",
+            "attributes": "High effort, limited athleticism",
+            "age": 26,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Quincy Bennett",
+            "position": "WR",
+            "attributes": "Young talent, raw route running",
+            "age": 23,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Darnell Stokes",
+            "position": "WR",
+            "attributes": "Veteran, great leadership",
+            "age": 31,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Lawson",
+            "position": "WR",
+            "attributes": "Fast, return specialist potential",
+            "age": 24,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Chris Vaughn",
+            "position": "WR",
+            "attributes": "Possession WR, inconsistent hands",
+            "age": 26,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ricky Patterson",
+            "position": "WR",
+            "attributes": "Gadget WR, useful in trick plays",
+            "age": 25,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Kyle Houston",
+            "position": "WR",
+            "attributes": "Explosive leaper, limited route tree",
+            "age": 24,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Justin Moore",
+            "position": "WR",
+            "attributes": "Decent speed, average everything else",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Greg Simmons",
+            "position": "TE",
+            "attributes": "Blocking TE, strong, reliable hands",
+            "age": 30,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jordan Blake",
+            "position": "TE",
+            "attributes": "Receiving TE, fast but undersized",
+            "age": 25,
+            "salary": "$13M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Mason Carter",
+            "position": "TE",
+            "attributes": "Balanced, decent blocker & receiver",
+            "age": 27,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Kyle Thornton",
+            "position": "TE",
+            "attributes": "Elite hands, struggles blocking",
+            "age": 26,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Eric Douglas",
+            "position": "TE",
+            "attributes": "Physical, jump ball specialist",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Brandon Holloway",
+            "position": "TE",
+            "attributes": "Speedster, weak against press",
+            "age": 24,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "DeAndre Waller",
+            "position": "TE",
+            "attributes": "Great route runner, lacks toughness",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jamal Bridges",
+            "position": "TE",
+            "attributes": "Versatile, plays FB as well",
+            "age": 29,
+            "salary": "$11M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carter Vaughn",
+            "position": "TE",
+            "attributes": "Red zone target, not very mobile",
+            "age": 30,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trevor Maddox",
+            "position": "TE",
+            "attributes": "Reliable hands, lacks agility",
+            "age": 27,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Thunderfront",
+            "position": "OL",
+            "attributes": "Dominant against power rushers, weak against speed",
+            "age": "-",
+            "salary": "$50M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Fortress Line",
+            "position": "OL",
+            "attributes": "Strong pass protection, vulnerable to inside runs",
+            "age": "-",
+            "salary": "$34M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Development Unit",
+            "position": "OL",
+            "attributes": "Raw and inexperienced",
+            "age": "-",
+            "salary": "$16M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rampart Guards",
+            "position": "OL",
+            "attributes": "Balanced unit, no major weaknesses",
+            "age": "-",
+            "salary": "$48M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Gridlock Five",
+            "position": "OL",
+            "attributes": "Smart and disciplined, but not very athletic",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Maulers",
+            "position": "OL",
+            "attributes": "Smashmouth run blockers, penalty-prone",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Heavy Hitters",
+            "position": "OL",
+            "attributes": "Road graders in the run game, lack agility",
+            "age": "-",
+            "salary": "$46M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Road Pavers",
+            "position": "OL",
+            "attributes": "High-motor unit, but lack top-end talent",
+            "age": "-",
+            "salary": "$26M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Alpha",
+            "position": "DEF",
+            "attributes": "Elite pass rush, lockdown secondary, aggressive",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Bravo",
+            "position": "DEF",
+            "attributes": "Fast and instinctive, great in coverage, undersized",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Charlie",
+            "position": "DEF",
+            "attributes": "Hard-hitting, dominant vs run, slow vs deep passes",
+            "age": "-",
+            "salary": "$110M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Delta",
+            "position": "DEF",
+            "attributes": "Blitz-heavy, disrupts QBs, weak in zone coverage",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Echo",
+            "position": "DEF",
+            "attributes": "Opportunistic, forces turnovers, but takes risks",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Foxtrot",
+            "position": "DEF",
+            "attributes": "Physical and violent, but prone to penalties",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Golf",
+            "position": "DEF",
+            "attributes": "Great vs run, struggles against deep ball threats",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Hotel",
+            "position": "DEF",
+            "attributes": "Balanced, solid tackling, but no elite playmakers",
+            "age": "-",
+            "salary": "$90M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit India",
+            "position": "DEF",
+            "attributes": "Fast and athletic, but struggles in power matchups",
+            "age": "-",
+            "salary": "$80M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Juliet",
+            "position": "DEF",
+            "attributes": "Unpredictable, high sacks but allows big plays",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Henry Marshall",
+            "position": "TE",
+            "attributes": "Great blocker, slow route runner",
+            "age": 29,
+            "salary": "$6M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Owen Fischer",
+            "position": "TE",
+            "attributes": "Physical, yards after catch monster",
+            "age": 24,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Antonio Briggs",
+            "position": "TE",
+            "attributes": "Strong, struggles with drops",
+            "age": 27,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rashad Howard",
+            "position": "TE",
+            "attributes": "Good hands, below-average speed",
+            "age": 30,
+            "salary": "$7M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Colton Andrews",
+            "position": "TE",
+            "attributes": "Great in play-action, struggles in press",
+            "age": 25,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bryce Walters",
+            "position": "TE",
+            "attributes": "Explosive, injury-prone",
+            "age": 23,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Devon Stokes",
+            "position": "TE",
+            "attributes": "Agile, lacks blocking power",
+            "age": 26,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Malcolm Tate",
+            "position": "TE",
+            "attributes": "Veteran leader, limited athletically",
+            "age": 31,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ricky Bowman",
+            "position": "TE",
+            "attributes": "Deep threat, struggles against physical DBs",
+            "age": 24,
+            "salary": "$16M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Leon Shepherd",
+            "position": "TE",
+            "attributes": "Hard to tackle, inconsistent",
+            "age": 27,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Clark",
+            "position": "TE",
+            "attributes": "Hybrid WR/TE, mismatch nightmare",
+            "age": 25,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Foundation Five",
+            "position": "OL",
+            "attributes": "Fundamentally sound, but struggle against elite pass rush",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Foundation Squad",
+            "position": "OL",
+            "attributes": "Young with potential, but make mental mistakes",
+            "age": "-",
+            "salary": "$26M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Steel Wall",
+            "position": "OL",
+            "attributes": "Brick wall pass blocking, slow-moving",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Stormbreakers",
+            "position": "OL",
+            "attributes": "Powerful run blockers, decent pass protection",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Blitz Blockers",
+            "position": "OL",
+            "attributes": "Strong in play-action pass sets, inconsistent run blocking",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trench Warriors",
+            "position": "OL",
+            "attributes": "Physical, aggressive, struggle vs speed rushers",
+            "age": "-",
+            "salary": "$50M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bullrush Brigade",
+            "position": "OL",
+            "attributes": "Hold their ground well, but bad lateral movement",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Guardian Force",
+            "position": "OL",
+            "attributes": "Well-coached, but aging and slower",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Wrecking Crew",
+            "position": "OL",
+            "attributes": "Powerful in short-yardage, struggle against fast DTs",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Iron Titans",
+            "position": "OL",
+            "attributes": "Elite pass protection, great run blocking",
+            "age": "-",
+            "salary": "$56M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Kilo",
+            "position": "DEF",
+            "attributes": "Aggressive blitzers, excellent pressure, weak secondary",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Lima",
+            "position": "DEF",
+            "attributes": "Well-coached, disciplined, but lacks star power",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Mike",
+            "position": "DEF",
+            "attributes": "Disruptive front seven, shaky coverage skills",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit November",
+            "position": "DEF",
+            "attributes": "Smart and fundamental, but not very athletic",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Oscar",
+            "position": "DEF",
+            "attributes": "Big hitters, good vs run, slow against fast offenses",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Papa",
+            "position": "DEF",
+            "attributes": "Old-school tough, but inconsistent on big plays",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Quebec",
+            "position": "DEF",
+            "attributes": "High motor, always hustling, but lacks top talent",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Romeo",
+            "position": "DEF",
+            "attributes": "Stout run defense, gets exposed in pass coverage",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Sierra",
+            "position": "DEF",
+            "attributes": "Full of potential, but make rookie mistakes",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Tango",
+            "position": "DEF",
+            "attributes": "Developing talent, lowest-rated group",
+            "age": "-",
+            "salary": "$25M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Julius Cross",
+            "position": "WR",
+            "attributes": "Deep threat, great ball tracking",
+            "age": 26,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Keenan Lattimore",
+            "position": "WR",
+            "attributes": "Physical possession WR, slow release",
+            "age": 30,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rashad Jennings",
+            "position": "WR",
+            "attributes": "Fast but unpolished route runner",
+            "age": 22,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Victor Rawlins",
+            "position": "WR",
+            "attributes": "Gadget player, explosive with the ball",
+            "age": 25,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Monroe",
+            "position": "WR",
+            "attributes": "Great hands, struggles vs press",
+            "age": 27,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Tate",
+            "position": "WR",
+            "attributes": "Strong route runner, lacks top-end speed",
+            "age": 26,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Damien Booker",
+            "position": "WR",
+            "attributes": "Speedster, but raw skills",
+            "age": 23,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyler Vaughn",
+            "position": "WR",
+            "attributes": "Reliable chain-mover, good awareness",
+            "age": 29,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jason Caldwell",
+            "position": "RB",
+            "attributes": "Injury history, still productive",
+            "age": 29,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derrick Slade",
+            "position": "RB",
+            "attributes": "Hard-nosed runner, lacks finesse",
+            "age": 27,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Victor Randall",
+            "position": "RB",
+            "attributes": "Young, raw talent",
+            "age": 22,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tristan Vance",
+            "position": "WR",
+            "attributes": "Explosive after the catch, raw route running",
+            "age": 22,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Malik Pearson",
+            "position": "WR",
+            "attributes": "Tall red-zone target, lacks speed",
+            "age": 28,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Andre Caldwell",
+            "position": "WR",
+            "attributes": "Shifty slot receiver, inconsistent hands",
+            "age": 24,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Corey Mathis",
+            "position": "WR",
+            "attributes": "Speedy return specialist, not a great catcher",
+            "age": 23,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50"
+        },
+        {
+            "name": "Jamir Slay",
+            "position": "WR",
+            "attributes": "Possession WR, reliable on third downs",
+            "age": 29,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "DeAndre Willis",
+            "position": "WR",
+            "attributes": "Big, physical, struggles vs press",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Bennett",
+            "position": "WR",
+            "attributes": "Great route runner, lacks top-end speed",
+            "age": 27,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jaxon Holloway",
+            "position": "WR",
+            "attributes": "Deep threat, fast but inconsistent hands",
+            "age": 24,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Ross",
+            "position": "RB",
+            "attributes": "One-cut runner, lacks agility",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Anthony Yates",
+            "position": "RB",
+            "attributes": "Elusive, poor in goal-line situations",
+            "age": 23,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carl Dunston",
+            "position": "RB",
+            "attributes": "Trucking ability, but slow",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Patrick Lacey",
+            "position": "RB",
+            "attributes": "Good pass blocker, average speed",
+            "age": 26,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Lamar Dorsey",
+            "position": "RB",
+            "attributes": "High upside, unpolished",
+            "age": 24,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ironclad Five",
+            "position": "OL",
+            "attributes": "Quick off the snap, undersized",
+            "age": "-",
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rampart Guards",
+            "position": "OL",
+            "attributes": "Balanced unit, no major weaknesses",
+            "age": "-",
+            "salary": "$48M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Road Pavers",
+            "position": "OL",
+            "attributes": "High-motor unit, but lack top-end talent",
+            "age": "-",
+            "salary": "$26M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Steel Wall",
+            "position": "OL",
+            "attributes": "Brick wall pass blocking, slow-moving",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Stormbreakers",
+            "position": "OL",
+            "attributes": "Powerful run blockers, decent pass protection",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Alpha",
+            "position": "DEF",
+            "attributes": "Elite pass rush, lockdown secondary, aggressive",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Bravo",
+            "position": "DEF",
+            "attributes": "Fast and instinctive, great in coverage, undersized",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Charlie",
+            "position": "DEF",
+            "attributes": "Hard-hitting, dominant vs run, slow vs deep passes",
+            "age": "-",
+            "salary": "$110M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Delta",
+            "position": "DEF",
+            "attributes": "Blitz-heavy, disrupts QBs, weak in zone coverage",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Echo",
+            "position": "DEF",
+            "attributes": "Opportunistic, forces turnovers, but takes risks",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Guardian Force",
+            "position": "OL",
+            "attributes": "Well-coached, but aging and slower",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Wrecking Crew",
+            "position": "OL",
+            "attributes": "Powerful in short-yardage, struggle against fast DTs",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Blitz Blockers",
+            "position": "OL",
+            "attributes": "Strong in play-action pass sets, inconsistent run blocking",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trench Warriors",
+            "position": "OL",
+            "attributes": "Physical, aggressive, struggle vs speed rushers",
+            "age": "-",
+            "salary": "$50M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bullrush Brigade",
+            "position": "OL",
+            "attributes": "Hold their ground well, but bad lateral movement",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Foxtrot",
+            "position": "DEF",
+            "attributes": "Physical and violent, but prone to penalties",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Golf",
+            "position": "DEF",
+            "attributes": "Great vs run, struggles against deep ball threats",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Hotel",
+            "position": "DEF",
+            "attributes": "Balanced, solid tackling, but no elite playmakers",
+            "age": "-",
+            "salary": "$90M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit India",
+            "position": "DEF",
+            "attributes": "Fast and athletic, but struggles in power matchups",
+            "age": "-",
+            "salary": "$80M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Juliet",
+            "position": "DEF",
+            "attributes": "Unpredictable, high sacks but allows big plays",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyson Caldwell",
+            "position": "WR",
+            "attributes": "Slot WR, great in short routes",
+            "age": 28,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jalen Simmons",
+            "position": "WR",
+            "attributes": "Red-zone monster, lacks separation",
+            "age": 30,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Aaron Fields",
+            "position": "WR",
+            "attributes": "High effort, limited athleticism",
+            "age": 26,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Quincy Bennett",
+            "position": "WR",
+            "attributes": "Young talent, raw route running",
+            "age": 23,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Darnell Stokes",
+            "position": "WR",
+            "attributes": "Veteran, great leadership",
+            "age": 31,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Hodge",
+            "position": "RB",
+            "attributes": "Receiving back, great routes",
+            "age": 26,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Ross",
+            "position": "RB",
+            "attributes": "One-cut runner, lacks agility",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Anthony Yates",
+            "position": "RB",
+            "attributes": "Elusive, poor in goal-line situations",
+            "age": 23,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carl Dunston",
+            "position": "RB",
+            "attributes": "Trucking ability, but slow",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Patrick Lacey",
+            "position": "RB",
+            "attributes": "Good pass blocker, average speed",
+            "age": 26,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trevor Maddox",
+            "position": "TE",
+            "attributes": "Reliable hands, lacks agility",
+            "age": 27,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Damian Wells",
+            "position": "TE",
+            "attributes": "Powerful, can\u2019t separate from defenders",
+            "age": 26,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier O'Neal",
+            "position": "TE",
+            "attributes": "Athletic, struggles with blocking",
+            "age": 23,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Logan Benson",
+            "position": "TE",
+            "attributes": "Smart, always finds soft spots",
+            "age": 28,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Henry Marshall",
+            "position": "TE",
+            "attributes": "Great blocker, slow route runner",
+            "age": 29,
+            "salary": "$6M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Iron Titans",
+            "position": "OL",
+            "attributes": "Elite pass protection, great run blocking",
+            "age": "-",
+            "salary": "$56M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Foundation Five",
+            "position": "OL",
+            "attributes": "Fundamentally sound, but struggle against elite pass rush",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Foundation Squad",
+            "position": "OL",
+            "attributes": "Young with potential, but make mental mistakes",
+            "age": "-",
+            "salary": "$26M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Kilo",
+            "position": "DEF",
+            "attributes": "Aggressive blitzers, excellent pressure, weak secondary",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Lima",
+            "position": "DEF",
+            "attributes": "Well-coached, disciplined, but lacks star power",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Mike",
+            "position": "DEF",
+            "attributes": "Disruptive front seven, shaky coverage skills",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Lawson",
+            "position": "WR",
+            "attributes": "Fast, return specialist potential",
+            "age": 24,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Chris Vaughn",
+            "position": "WR",
+            "attributes": "Possession WR, inconsistent hands",
+            "age": 26,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ricky Patterson",
+            "position": "WR",
+            "attributes": "Gadget WR, useful in trick plays",
+            "age": 25,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Kyle Houston",
+            "position": "WR",
+            "attributes": "Explosive leaper, limited route tree",
+            "age": 24,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Justin Moore",
+            "position": "WR",
+            "attributes": "Decent speed, average everything else",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Lamar Dorsey",
+            "position": "RB",
+            "attributes": "High upside, unpolished",
+            "age": 24,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jason Caldwell",
+            "position": "RB",
+            "attributes": "Injury history, still productive",
+            "age": 29,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derrick Slade",
+            "position": "RB",
+            "attributes": "Hard-nosed runner, lacks finesse",
+            "age": 27,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Victor Randall",
+            "position": "RB",
+            "attributes": "Young, raw talent",
+            "age": 22,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Antonio Briggs",
+            "position": "TE",
+            "attributes": "Strong, struggles with drops",
+            "age": 27,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rashad Howard",
+            "position": "TE",
+            "attributes": "Good hands, below-average speed",
+            "age": 30,
+            "salary": "$7M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Colton Andrews",
+            "position": "TE",
+            "attributes": "Great in play-action, struggles in press",
+            "age": 25,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bryce Walters",
+            "position": "TE",
+            "attributes": "Explosive, injury-prone",
+            "age": 23,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Stormbreakers",
+            "position": "OL",
+            "attributes": "Powerful run blockers, decent pass protection",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trench Warriors",
+            "position": "OL",
+            "attributes": "Physical, aggressive, struggle vs speed rushers",
+            "age": "-",
+            "salary": "$50M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bullrush Brigade",
+            "position": "OL",
+            "attributes": "Hold their ground well, but bad lateral movement",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit November",
+            "position": "DEF",
+            "attributes": "Smart and fundamental, but not very athletic",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Oscar",
+            "position": "DEF",
+            "attributes": "Big hitters, good vs run, slow against fast offenses",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Papa",
+            "position": "DEF",
+            "attributes": "Old-school tough, but inconsistent on big plays",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jaxon Holloway",
+            "position": "WR",
+            "attributes": "Deep threat, fast but inconsistent hands",
+            "age": 24,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Bennett",
+            "position": "WR",
+            "attributes": "Great route runner, lacks top-end speed",
+            "age": 27,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "DeAndre Willis",
+            "position": "WR",
+            "attributes": "Big, physical, struggles vs press",
+            "age": 25,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Corey Mathis",
+            "position": "WR",
+            "attributes": "Speedy return specialist, not a great catcher",
+            "age": 23,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50"
+        },
+        {
+            "name": "Jamir Slay",
+            "position": "WR",
+            "attributes": "Possession WR, reliable on third downs",
+            "age": 29,
+            "salary": "$28M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Hodge",
+            "position": "RB",
+            "attributes": "Receiving back, great routes",
+            "age": 26,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Ross",
+            "position": "RB",
+            "attributes": "One-cut runner, lacks agility",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Anthony Yates",
+            "position": "RB",
+            "attributes": "Elusive, poor in goal-line situations",
+            "age": 23,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carl Dunston",
+            "position": "RB",
+            "attributes": "Trucking ability, but slow",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Trevor Maddox",
+            "position": "TE",
+            "attributes": "Reliable hands, lacks agility",
+            "age": 27,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Damian Wells",
+            "position": "TE",
+            "attributes": "Powerful, can\u2019t separate from defenders",
+            "age": 26,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier O'Neal",
+            "position": "TE",
+            "attributes": "Athletic, struggles with blocking",
+            "age": 23,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Iron Titans",
+            "position": "OL",
+            "attributes": "Elite pass protection, great run blocking",
+            "age": "-",
+            "salary": "$56M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Foundation Five",
+            "position": "OL",
+            "attributes": "Fundamentally sound, but struggle against elite pass rush",
+            "age": "-",
+            "salary": "$38M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Quebec",
+            "position": "DEF",
+            "attributes": "High motor, always hustling, but lacks top talent",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Romeo",
+            "position": "DEF",
+            "attributes": "Stout run defense, gets exposed in pass coverage",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Sierra",
+            "position": "DEF",
+            "attributes": "Full of potential, but make rookie mistakes",
+            "age": "-",
+            "salary": "$40M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Tango",
+            "position": "DEF",
+            "attributes": "Developing talent, lowest-rated group",
+            "age": "-",
+            "salary": "$25M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyson Caldwell",
+            "position": "WR",
+            "attributes": "Slot WR, great in short routes",
+            "age": 28,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jalen Simmons",
+            "position": "WR",
+            "attributes": "Red-zone monster, lacks separation",
+            "age": 30,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Aaron Fields",
+            "position": "WR",
+            "attributes": "High effort, limited athleticism",
+            "age": 26,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Quincy Bennett",
+            "position": "WR",
+            "attributes": "Young talent, raw route running",
+            "age": 23,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Lamar Dorsey",
+            "position": "RB",
+            "attributes": "High upside, unpolished",
+            "age": 24,
+            "salary": "$17M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Jason Caldwell",
+            "position": "RB",
+            "attributes": "Injury history, still productive",
+            "age": 29,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Derrick Slade",
+            "position": "RB",
+            "attributes": "Hard-nosed runner, lacks finesse",
+            "age": 27,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rashad Howard",
+            "position": "TE",
+            "attributes": "Good hands, below-average speed",
+            "age": 30,
+            "salary": "$7M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Colton Andrews",
+            "position": "TE",
+            "attributes": "Great in play-action, struggles in press",
+            "age": 25,
+            "salary": "$10M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bryce Walters",
+            "position": "TE",
+            "attributes": "Explosive, injury-prone",
+            "age": 23,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Guardian Force",
+            "position": "OL",
+            "attributes": "Well-coached, but aging and slower",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Wrecking Crew",
+            "position": "OL",
+            "attributes": "Powerful in short-yardage, struggle against fast DTs",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Mike",
+            "position": "DEF",
+            "attributes": "Disruptive front seven, shaky coverage skills",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit November",
+            "position": "DEF",
+            "attributes": "Smart and fundamental, but not very athletic",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Oscar",
+            "position": "DEF",
+            "attributes": "Big hitters, good vs run, slow against fast offenses",
+            "age": "-",
+            "salary": "$55M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Papa",
+            "position": "DEF",
+            "attributes": "Old-school tough, but inconsistent on big plays",
+            "age": "-",
+            "salary": "$65M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Julius Cross",
+            "position": "WR",
+            "attributes": "Deep threat, great ball tracking",
+            "age": 26,
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Keenan Lattimore",
+            "position": "WR",
+            "attributes": "Physical possession WR, slow release",
+            "age": 30,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rashad Jennings",
+            "position": "WR",
+            "attributes": "Fast but unpolished route runner",
+            "age": 22,
+            "salary": "$20M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Victor Randall",
+            "position": "RB",
+            "attributes": "Young, raw talent",
+            "age": 22,
+            "salary": "$8M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Freddie Hodge",
+            "position": "RB",
+            "attributes": "Receiving back, great routes",
+            "age": 26,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Ross",
+            "position": "RB",
+            "attributes": "One-cut runner, lacks agility",
+            "age": 28,
+            "salary": "$12M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Henry Marshall",
+            "position": "TE",
+            "attributes": "Great blocker, slow route runner",
+            "age": 29,
+            "salary": "$6M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Owen Fischer",
+            "position": "TE",
+            "attributes": "Physical, yards after catch monster",
+            "age": 24,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Bullrush Brigade",
+            "position": "OL",
+            "attributes": "Hold their ground well, but bad lateral movement",
+            "age": "-",
+            "salary": "$30M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Ironclad Five",
+            "position": "OL",
+            "attributes": "Quick off the snap, undersized",
+            "age": "-",
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Kilo",
+            "position": "DEF",
+            "attributes": "Aggressive blitzers, excellent pressure, weak secondary",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Lima",
+            "position": "DEF",
+            "attributes": "Well-coached, disciplined, but lacks star power",
+            "age": "-",
+            "salary": "$75M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Tango",
+            "position": "DEF",
+            "attributes": "Developing talent, lowest-rated group",
+            "age": "-",
+            "salary": "$25M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Tyler Vaughn",
+            "position": "WR",
+            "attributes": "Reliable chain-mover, good awareness",
+            "age": 29,
+            "salary": "$27M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Damien Booker",
+            "position": "WR",
+            "attributes": "Speedster, but raw skills",
+            "age": 23,
+            "salary": "$22M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Anthony Yates",
+            "position": "RB",
+            "attributes": "Elusive, poor in goal-line situations",
+            "age": 23,
+            "salary": "$15M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Carl Dunston",
+            "position": "RB",
+            "attributes": "Trucking ability, but slow",
+            "age": 25,
+            "salary": "$14M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Logan Benson",
+            "position": "TE",
+            "attributes": "Smart, always finds soft spots",
+            "age": 28,
+            "salary": "$9M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Isaiah Clark",
+            "position": "TE",
+            "attributes": "Hybrid WR/TE, mismatch nightmare",
+            "age": 25,
+            "salary": "$18M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Steel Wall",
+            "position": "OL",
+            "attributes": "Brick wall pass blocking, slow-moving",
+            "age": "-",
+            "salary": "$58M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Rampart Guards",
+            "position": "OL",
+            "attributes": "Balanced unit, no major weaknesses",
+            "age": "-",
+            "salary": "$48M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Hotel",
+            "position": "DEF",
+            "attributes": "Balanced, solid tackling, but no elite playmakers",
+            "age": "-",
+            "salary": "$90M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Foxtrot",
+            "position": "DEF",
+            "attributes": "Physical and violent, but prone to penalties",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Delta",
+            "position": "DEF",
+            "attributes": "Blitz-heavy, disrupts QBs, weak in zone coverage",
+            "age": "-",
+            "salary": "$95M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Echo",
+            "position": "DEF",
+            "attributes": "Opportunistic, forces turnovers, but takes risks",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Xavier Tate",
+            "position": "WR",
+            "attributes": "Strong route runner, lacks top-end speed",
+            "age": 26,
+            "salary": "$24M",
+            "fan_appeal": "\u2b50\u2b50\u2b50"
+        },
+        {
+            "name": "Unit Alpha",
+            "position": "DEF",
+            "attributes": "Elite pass rush, lockdown secondary, aggressive",
+            "age": "-",
+            "salary": "$105M",
+            "fan_appeal": "\u2b50\u2b50\u2b50\u2b50\u2b50"
+        }
+    ]
+}

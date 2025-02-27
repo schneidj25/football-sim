@@ -11,6 +11,7 @@ function loadClass(classPeriod) {
             <button onclick="viewStandings('${classPeriod}')">View Standings</button>
             <button onclick="inputTeamNames('${classPeriod}')">Input Team Names</button>
             <button onclick="manageRoster('${classPeriod}')">Manage Roster</button>
+            <button onclick="setDraftOrder('${classPeriod}')">Set Draft Order</button>
             <button onclick="startDraft('${classPeriod}')">Start Draft</button>
         </nav>
         <div id="classContent">
@@ -18,52 +19,101 @@ function loadClass(classPeriod) {
         </div>`;
 }
 
-function viewRosters(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Rosters - ${classPeriod}</h3><p>Display team rosters here.</p>`;
-}
-
-function viewFinances(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Finances - ${classPeriod}</h3><p>Display financial status of teams.</p>`;
-}
-
-function manageFinances(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Manage Finances - ${classPeriod}</h3><p>Adjust ticket, concession, and merchandise prices.</p>`;
-}
-
-function viewStandings(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Standings - ${classPeriod}</h3><p>Display league standings sorted by wins.</p>`;
-}
+// Store team names
+let teams = { "3rd Hour": [], "5th Hour": [] };
 
 function inputTeamNames(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Input Team Names - ${classPeriod}</h3>
-        <p>Assign an NFL franchise to each team.</p>
-        <input type="text" id="teamName" placeholder="Enter Team Name">
-        <button onclick="saveTeamName('${classPeriod}')">Save Team</button>`;
+    let numTeams = prompt("Enter the number of teams (max 10):");
+    numTeams = Math.min(10, Math.max(2, parseInt(numTeams)));
+
+    let teamInputs = "";
+    for (let i = 0; i < numTeams; i++) {
+        teamInputs += `<input type="text" id="team${i}" placeholder="Enter Team Name ${i + 1}"><br>`;
+    }
+    teamInputs += `<button onclick="saveTeamNames('${classPeriod}', ${numTeams})">Save Teams</button>`;
+
+    document.getElementById("classContent").innerHTML = `<h3>Input Team Names - ${classPeriod}</h3>` + teamInputs;
 }
 
-function saveTeamName(classPeriod) {
-    let teamName = document.getElementById("teamName").value;
-    alert(`Team ${teamName} has been assigned!`);
+function saveTeamNames(classPeriod, numTeams) {
+    teams[classPeriod] = [];
+    for (let i = 0; i < numTeams; i++) {
+        let teamName = document.getElementById(`team${i}`).value;
+        if (teamName) {
+            teams[classPeriod].push(teamName);
+        }
+    }
+    alert("Teams saved successfully!");
+    displayTeams(classPeriod);
 }
 
-function manageRoster(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Manage Rosters - ${classPeriod}</h3>
-        <p>Select a team to add/drop/trade players.</p>
-        <button onclick="tradePlayers('${classPeriod}')">Trade Players</button>`;
+function displayTeams(classPeriod) {
+    let teamList = `<h3>${classPeriod} Teams:</h3><ul>`;
+    teams[classPeriod].forEach(team => {
+        teamList += `<li>${team}</li>`;
+    });
+    teamList += "</ul>";
+    document.getElementById("classContent").innerHTML += teamList;
 }
 
-function tradePlayers(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Trade Players - ${classPeriod}</h3>
-        <p>Select two teams and the players to trade.</p>`;
+// Draft logic
+let draftOrder = [];
+function setDraftOrder(classPeriod) {
+    draftOrder = [...teams[classPeriod]];
+    let orderHtml = `<h3>Set Draft Order - ${classPeriod}</h3>`;
+    orderHtml += `<p>Click teams in the desired draft order.</p><ul id="draftOrderList"></ul>`;
+    orderHtml += `<button onclick="startDraft('${classPeriod}')">Start Draft</button>`;
+
+    document.getElementById("classContent").innerHTML = orderHtml;
+
+    let draftList = document.getElementById("draftOrderList");
+    teams[classPeriod].forEach(team => {
+        let listItem = document.createElement("li");
+        listItem.innerText = team;
+        listItem.onclick = function () {
+            draftOrder.push(team);
+            listItem.style.fontWeight = "bold";
+            listItem.onclick = null;
+        };
+        draftList.appendChild(listItem);
+    });
 }
+
+let draftPool = []; // This should be loaded from the JSON file
 
 function startDraft(classPeriod) {
-    document.getElementById("classContent").innerHTML = `<h3>Draft - ${classPeriod}</h3>
-        <p>Select the draft order and pick players for each team.</p>
-        <button onclick="setDraftOrder('${classPeriod}')">Set Draft Order</button>
-        <div id="draftPool">Draft Pool will be displayed here.</div>`;
+    if (draftOrder.length === 0) {
+        alert("Please set a draft order first.");
+        return;
+    }
+
+    let draftHtml = `<h3>Draft - ${classPeriod}</h3><p>Click a player to draft.</p><ul id="playerList"></ul>`;
+    document.getElementById("classContent").innerHTML = draftHtml;
+
+    let playerList = document.getElementById("playerList");
+    draftPool.forEach(player => {
+        let listItem = document.createElement("li");
+        listItem.innerText = `${player.name} (${player.position}) - ${player.salary}`;
+        listItem.onclick = function () {
+            assignPlayerToTeam(classPeriod, player);
+            listItem.style.textDecoration = "line-through";
+            listItem.onclick = null;
+        };
+        playerList.appendChild(listItem);
+    });
 }
 
-function setDraftOrder(classPeriod) {
-    document.getElementById("draftPool").innerHTML = `<p>Edit the draft order. Players will be assigned to teams in order.</p>`;
+function assignPlayerToTeam(classPeriod, player) {
+    let team = draftOrder.shift(); // Assigns to the first team in the draft order
+    if (!team) {
+        alert("Draft complete!");
+        return;
+    }
+
+    alert(`${player.name} has been drafted by ${team}.`);
+    // Remove player from the draft pool
+    draftPool = draftPool.filter(p => p !== player);
+
+    // Show the next pick
+    startDraft(classPeriod);
 }

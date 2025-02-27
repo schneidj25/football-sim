@@ -3,24 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Football Team Owner Simulation</title>
+    <title>Football Simulation</title>
     <link rel="stylesheet" href="styles.css">
+    <script defer src="script.js"></script>
 </head>
 <body>
-    <h1>Football Team Owner Simulation</h1>
-    <nav>
-        <button onclick="loadDraft('3rd-hour')">3rd Hour Draft</button>
-        <button onclick="loadDraft('5th-hour')">5th Hour Draft</button>
-        <button onclick="loadStandings()">View Standings</button>
-        <button onclick="loadFinances()">View Finances</button>
-        <button onclick="runGameSimulation()">Simulate Games</button>
-        <button onclick="manageTeamPrices()">Manage Prices</button>
-    </nav>
-    
-    <div id="content">
-        <p>Select an option above to begin.</p>
+    <div id="main-menu">
+        <h1>Football Team Owner Simulation</h1>
+        <button onclick="loadClass('3rd Hour')">3rd Hour</button>
+        <button onclick="loadClass('5th Hour')">5th Hour</button>
     </div>
-    
-    <script src="script.js"></script>
+
+    <div id="content"></div>
 </body>
 </html>
