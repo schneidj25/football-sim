@@ -5,7 +5,8 @@ document.addEventListener("DOMContentLoaded", function () {
 let draftPool = []; // Store the full draft pool
 
 // Load the player data from JSON
-fetch("players.json")
+
+fetch("./players.json")  // Ensure correct path
     .then(response => {
         if (!response.ok) {
             throw new Error(`HTTP error! Status: ${response.status}`);
@@ -13,28 +14,33 @@ fetch("players.json")
         return response.json();
     })
     .then(data => {
-        draftPool = data; // Ensure `draftPool` is assigned as an array
-        console.log("Draft Pool Loaded:", draftPool); // Debugging log
+        if (!Array.isArray(data)) {
+            throw new Error("Draft pool data is not an array");
+        }
+        draftPool = data;
+        console.log("✅ Draft Pool Loaded Successfully:", draftPool);
     })
-    .catch(error => console.error("Error loading player data:", error));
+    .catch(error => console.error("❌ Error loading player data:", error));
 
 
-function loadClass(classPeriod) {
-    document.getElementById("content").innerHTML = `<h2>${classPeriod} Dashboard</h2>
-        <nav>
-            <button onclick="viewRosters('${classPeriod}')">View Rosters</button>
-            <button onclick="viewFinances('${classPeriod}')">View Finances</button>
-            <button onclick="manageFinances('${classPeriod}')">Manage Finances</button>
-            <button onclick="viewStandings('${classPeriod}')">View Standings</button>
-            <button onclick="inputTeamNames('${classPeriod}')">Input Team Names</button>
-            <button onclick="manageRoster('${classPeriod}')">Manage Roster</button>
-            <button onclick="setDraftOrder('${classPeriod}')">Set Draft Order</button>
-            <button onclick="startDraft('${classPeriod}')">Start Draft</button>
-        </nav>
-        <div id="classContent">
-            <p>Select an option above.</p>
-        </div>`;
-}
+    function loadClass(classPeriod) {
+        document.getElementById("content").innerHTML = `
+            <h2>${classPeriod} Dashboard</h2>
+            <nav>
+                <button onclick="viewRosters('${classPeriod}')">View Rosters</button>
+                <button onclick="viewFinances('${classPeriod}')">View Finances</button>
+                <button onclick="manageFinances('${classPeriod}')">Manage Finances</button>
+                <button onclick="viewStandings('${classPeriod}')">View Standings</button>
+                <button onclick="inputTeamNames('${classPeriod}')">Input Team Names</button>
+                <button onclick="manageRoster('${classPeriod}')">Manage Roster</button>
+                <button onclick="setDraftOrder('${classPeriod}')">Set Draft Order</button>
+                <button onclick="startDraft('${classPeriod}')">Start Draft</button>
+            </nav>
+            <div id="classContent">
+                <p>Select an option above.</p>
+            </div>`;
+    }
+    
 
 // Store team names
 let teams = { "3rd Hour": [], "5th Hour": [] };
