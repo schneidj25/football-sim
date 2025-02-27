@@ -2,6 +2,16 @@ document.addEventListener("DOMContentLoaded", function () {
     document.getElementById("content").innerHTML = "<p>Welcome to the Football Team Owner Simulation. Select an option above to begin.</p>";
 });
 
+let draftPool = []; // Store the full draft pool
+
+// Load the player data from JSON
+fetch("players.json")
+    .then(response => response.json())
+    .then(data => {
+        draftPool = data;
+    })
+    .catch(error => console.error("Error loading player data:", error));
+
 function loadClass(classPeriod) {
     document.getElementById("content").innerHTML = `<h2>${classPeriod} Dashboard</h2>
         <nav>
@@ -79,15 +89,17 @@ function setDraftOrder(classPeriod) {
     });
 }
 
-let draftPool = []; // This should be loaded from the JSON file
-
 function startDraft(classPeriod) {
     if (draftOrder.length === 0) {
         alert("Please set a draft order first.");
         return;
     }
 
-    let draftHtml = `<h3>Draft - ${classPeriod}</h3><p>Click a player to draft.</p><ul id="playerList"></ul>`;
+    let draftHtml = `<h3>Draft - ${classPeriod}</h3>
+        <p>Click a player to draft.</p>
+        <p><strong>Round 1, Pick 1 - ${draftOrder[0]}</strong></p>
+        <ul id="playerList"></ul>`;
+    
     document.getElementById("classContent").innerHTML = draftHtml;
 
     let playerList = document.getElementById("playerList");
@@ -111,9 +123,12 @@ function assignPlayerToTeam(classPeriod, player) {
     }
 
     alert(`${player.name} has been drafted by ${team}.`);
-    // Remove player from the draft pool
-    draftPool = draftPool.filter(p => p !== player);
+    draftPool = draftPool.filter(p => p !== player); // Remove drafted player
 
-    // Show the next pick
-    startDraft(classPeriod);
+    // Show next pick
+    if (draftOrder.length > 0) {
+        startDraft(classPeriod);
+    } else {
+        alert("Draft completed for all teams!");
+    }
 }
